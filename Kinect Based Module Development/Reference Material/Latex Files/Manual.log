@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.6.3)  28 JUN 2014 11:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.6.3)  29 JUN 2014 17:03
 entering extended mode
 **Manual.tex
 
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Manual.tex"
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Manual.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -247,18 +247,18 @@ LaTeX Warning: Unused global option(s):
     [20pt].
 
 
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Manual.aux"
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch1-Installation.aux")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch2-zigbee.aux")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch3-Setup.aux")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch4-Experiments.aux")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\References.aux"))
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Manual.aux"
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch1-Installation.aux")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch2-zigbee.aux")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch3-Setup.aux")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch4-Experiments.aux")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\References.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -352,10 +352,10 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Manual.out")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Manual.out")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Manual.out")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Manual.out")
 \@outlinefile=\write3
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 32.
@@ -366,8 +366,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Akhil Jain/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Manual.toc"
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Manual.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -382,8 +382,8 @@ l.48 ... of the experiment}}{46}{subsection.4.5.1}
 ] [2])
 \tf@toc=\write4
  [3]
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch1-Installation.tex" [4
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch1-Installation.tex" [4
 
 ]
 Chapter 1.
@@ -451,20 +451,21 @@ File: after_install.jpg Graphic file (type jpg)
 <use after_install.jpg>
 Package pdftex.def Info: after_install.jpg used on input line 195.
 (pdftex.def)             Requested size: 469.52594pt x 366.24077pt.
- [6 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/website.jpg> <C:/Users/Akhil Jain/Desktop/Kinect Based Module 
-Development/Reference Material/Latex Files/downloaded.jpg>] [7 <C:/Users/Akhil 
-Jain/Desktop/Kinect Based Module Development/Reference Material/Latex Files/sdk
-_step1.jpg> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Refere
-nce Material/Latex Files/sdk_step2.jpg>] [8 <C:/Users/Akhil Jain/Desktop/Kinect
- Based Module Development/Reference Material/Latex Files/sdk_step3.jpg> <C:/Use
-rs/Akhil Jain/Desktop/Kinect Based Module Development/Reference Material/Latex 
-Files/toolkit_step1.jpg>] [9 <C:/Users/Akhil Jain/Desktop/Kinect Based Module D
-evelopment/Reference Material/Latex Files/toolkit_step2.jpg> <C:/Users/Akhil Ja
-in/Desktop/Kinect Based Module Development/Reference Material/Latex Files/toolk
-it_step3.jpg>] [10 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development
-/Reference Material/Latex Files/after_install.jpg>]
-[11] <step1.jpeg, id=697, 1371.1225pt x 770.88pt>
+ [6 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/website.jpg> <C:/Users/Akhil Jain/Desktop/Project/Kine
+ct Based Module Development/Reference Material/Latex Files/downloaded.jpg>] [7 
+<C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Reference 
+Material/Latex Files/sdk_step1.jpg> <C:/Users/Akhil Jain/Desktop/Project/Kinect
+ Based Module Development/Reference Material/Latex Files/sdk_step2.jpg>] [8 <C:
+/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Reference Mat
+erial/Latex Files/sdk_step3.jpg> <C:/Users/Akhil Jain/Desktop/Project/Kinect Ba
+sed Module Development/Reference Material/Latex Files/toolkit_step1.jpg>] [9 <C
+:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Reference Ma
+terial/Latex Files/toolkit_step2.jpg> <C:/Users/Akhil Jain/Desktop/Project/Kine
+ct Based Module Development/Reference Material/Latex Files/toolkit_step3.jpg>] 
+[10 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/after_install.jpg>] [11]
+<step1.jpeg, id=697, 1371.1225pt x 770.88pt>
 File: step1.jpeg Graphic file (type jpg)
  <use step1.jpeg>
 Package pdftex.def Info: step1.jpeg used on input line 445.
@@ -535,26 +536,26 @@ File: step11.jpeg Graphic file (type jpg)
  <use step11.jpeg>
 Package pdftex.def Info: step11.jpeg used on input line 533.
 (pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
-) [12] [13 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Referen
-ce Material/Latex Files/step1.jpeg> <C:/Users/Akhil Jain/Desktop/Kinect Based M
-odule Development/Reference Material/Latex Files/step2.jpeg>] [14 <C:/Users/Akh
-il Jain/Desktop/Kinect Based Module Development/Reference Material/Latex Files/
-step3.jpeg> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Refere
-nce Material/Latex Files/step4.jpeg>] [15 <C:/Users/Akhil Jain/Desktop/Kinect B
-ased Module Development/Reference Material/Latex Files/step5.jpeg> <C:/Users/Ak
-hil Jain/Desktop/Kinect Based Module Development/Reference Material/Latex Files
-/step6.jpeg>]
-[16 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/step7.jpeg> <C:/Users/Akhil Jain/Desktop/Kinect Based Module D
-evelopment/Reference Material/Latex Files/step8.jpeg>] [17 <C:/Users/Akhil Jain
-/Desktop/Kinect Based Module Development/Reference Material/Latex Files/step9.j
-peg> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mat
-erial/Latex Files/step10.jpeg>] [18 <C:/Users/Akhil Jain/Desktop/Kinect Based M
-odule Development/Reference Material/Latex Files/step12.jpeg> <C:/Users/Akhil J
-ain/Desktop/Kinect Based Module Development/Reference Material/Latex Files/step
-11.jpeg>]
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch2-zigbee.tex" [19
+) [12] [13 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development
+/Reference Material/Latex Files/step1.jpeg> <C:/Users/Akhil Jain/Desktop/Projec
+t/Kinect Based Module Development/Reference Material/Latex Files/step2.jpeg>] [
+14 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Referen
+ce Material/Latex Files/step3.jpeg> <C:/Users/Akhil Jain/Desktop/Project/Kinect
+ Based Module Development/Reference Material/Latex Files/step4.jpeg>] [15 <C:/U
+sers/Akhil Jain/Desktop/Project/Kinect Based Module Development/Reference Mater
+ial/Latex Files/step5.jpeg> <C:/Users/Akhil Jain/Desktop/Project/Kinect Based M
+odule Development/Reference Material/Latex Files/step6.jpeg>] [16 <C:/Users/Akh
+il Jain/Desktop/Project/Kinect Based Module Development/Reference Material/Late
+x Files/step7.jpeg> <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module De
+velopment/Reference Material/Latex Files/step8.jpeg>] [17 <C:/Users/Akhil Jain/
+Desktop/Project/Kinect Based Module Development/Reference Material/Latex Files/
+step9.jpeg> <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Developmen
+t/Reference Material/Latex Files/step10.jpeg>] [18 <C:/Users/Akhil Jain/Desktop
+/Project/Kinect Based Module Development/Reference Material/Latex Files/step12.
+jpeg> <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refe
+rence Material/Latex Files/step11.jpeg>]
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch2-zigbee.tex" [19
 
 
 ]
@@ -591,64 +592,65 @@ Package pdftex.def Info: zigbee_5.jpg used on input line 111.
  [20
 
 ]
-[21 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/zigbee_1.jpg> <C:/Users/Akhil Jain/Desktop/Kinect Based Module
- Development/Reference Material/Latex Files/zigbee_2.jpg> <C:/Users/Akhil Jain/
-Desktop/Kinect Based Module Development/Reference Material/Latex Files/zigbee_3
-.jpg>] [22 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Referen
-ce Material/Latex Files/zigbee_4.jpg> <C:/Users/Akhil Jain/Desktop/Kinect Based
- Module Development/Reference Material/Latex Files/zigbee_5.jpg>]
-<zigbee_8.jpg, id=772, 350.05782pt x 452.4403pt>
+[21 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/zigbee_1.jpg> <C:/Users/Akhil Jain/Desktop/Project/Kin
+ect Based Module Development/Reference Material/Latex Files/zigbee_2.jpg> <C:/U
+sers/Akhil Jain/Desktop/Project/Kinect Based Module Development/Reference Mater
+ial/Latex Files/zigbee_3.jpg>] [22 <C:/Users/Akhil Jain/Desktop/Project/Kinect 
+Based Module Development/Reference Material/Latex Files/zigbee_4.jpg> <C:/Users
+/Akhil Jain/Desktop/Project/Kinect Based Module Development/Reference Material/
+Latex Files/zigbee_5.jpg>] <zigbee_8.jpg, id=772, 350.05782pt x 452.4403pt>
 File: zigbee_8.jpg Graphic file (type jpg)
- <use zigbee_8.jpg>
+
+<use zigbee_8.jpg>
 Package pdftex.def Info: zigbee_8.jpg used on input line 135.
 (pdftex.def)             Requested size: 175.02847pt x 226.2196pt.
-
-<zigbee_17.jpg, id=773, 1846.9pt x 3276.24pt>
+ <zigbee_17.jpg, id=773, 1846.9pt x 3276.24pt>
 File: zigbee_17.jpg Graphic file (type jpg)
- <use zigbee_17.jpg>
+
+<use zigbee_17.jpg>
 Package pdftex.def Info: zigbee_17.jpg used on input line 143.
 (pdftex.def)             Requested size: 184.70082pt x 327.64319pt.
-
-<zigbee_11.jpg, id=774, 350.05782pt x 452.4403pt>
-File: zigbee_11.jpg Graphic file (type jpg)
- <use zigbee_11.jpg>
-Package pdftex.def Info: zigbee_11.jpg used on input line 159.
-(pdftex.def)             Requested size: 175.02847pt x 226.2196pt.
+ <zigbee_11.jpg, id=774, 350.05782pt x 452.4403pt>
 File: zigbee_11.jpg Graphic file (type jpg)
 
 <use zigbee_11.jpg>
+Package pdftex.def Info: zigbee_11.jpg used on input line 159.
+(pdftex.def)             Requested size: 175.02847pt x 226.2196pt.
+File: zigbee_11.jpg Graphic file (type jpg)
+ <use zigbee_11.jpg>
 Package pdftex.def Info: zigbee_11.jpg used on input line 174.
 (pdftex.def)             Requested size: 175.02847pt x 226.2196pt.
- <zigbee_13.jpg, id=775, 349.305pt x 453.94594pt>
-File: zigbee_13.jpg Graphic file (type jpg)
 
-<use zigbee_13.jpg>
+<zigbee_13.jpg, id=775, 349.305pt x 453.94594pt>
+File: zigbee_13.jpg Graphic file (type jpg)
+ <use zigbee_13.jpg>
 Package pdftex.def Info: zigbee_13.jpg used on input line 182.
 (pdftex.def)             Requested size: 174.65207pt x 226.97241pt.
- <zigbee_16.jpg, id=776, 3276.24pt x 1846.9pt>
-File: zigbee_16.jpg Graphic file (type jpg)
 
-<use zigbee_16.jpg>
+<zigbee_16.jpg, id=776, 3276.24pt x 1846.9pt>
+File: zigbee_16.jpg Graphic file (type jpg)
+ <use zigbee_16.jpg>
 Package pdftex.def Info: zigbee_16.jpg used on input line 198.
 (pdftex.def)             Requested size: 327.64319pt x 184.70082pt.
- <zigbee_14.jpg, id=777, 349.305pt x 453.94594pt>
-File: zigbee_14.jpg Graphic file (type jpg)
 
-<use zigbee_14.jpg>
+<zigbee_14.jpg, id=777, 349.305pt x 453.94594pt>
+File: zigbee_14.jpg Graphic file (type jpg)
+ <use zigbee_14.jpg>
 Package pdftex.def Info: zigbee_14.jpg used on input line 208.
 (pdftex.def)             Requested size: 174.65207pt x 226.97241pt.
- [23 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mat
-erial/Latex Files/zigbee_8.jpg>] [24 <C:/Users/Akhil Jain/Desktop/Kinect Based 
-Module Development/Reference Material/Latex Files/zigbee_17.jpg> <C:/Users/Akhi
-l Jain/Desktop/Kinect Based Module Development/Reference Material/Latex Files/z
-igbee_11.jpg>] [25 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development
-/Reference Material/Latex Files/zigbee_13.jpg>] [26 <C:/Users/Akhil Jain/Deskto
-p/Kinect Based Module Development/Reference Material/Latex Files/zigbee_16.jpg>
- <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Materia
-l/Latex Files/zigbee_14.jpg>]) [27]
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch3-Setup.tex" [28
+ [23 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refer
+ence Material/Latex Files/zigbee_8.jpg>] [24 <C:/Users/Akhil Jain/Desktop/Proje
+ct/Kinect Based Module Development/Reference Material/Latex Files/zigbee_17.jpg
+> <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Referenc
+e Material/Latex Files/zigbee_11.jpg>] [25 <C:/Users/Akhil Jain/Desktop/Project
+/Kinect Based Module Development/Reference Material/Latex Files/zigbee_13.jpg>]
+ [26 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refer
+ence Material/Latex Files/zigbee_16.jpg> <C:/Users/Akhil Jain/Desktop/Project/K
+inect Based Module Development/Reference Material/Latex Files/zigbee_14.jpg>]) 
+[27]
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch3-Setup.tex" [28
 
 
 ]
@@ -751,22 +753,23 @@ Overfull \hbox (30.47281pt too wide) in paragraph at lines 229--230
  [] 
  []
 
-) [30 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Ma
-terial/Latex Files/s1.png>] [31 <C:/Users/Akhil Jain/Desktop/Kinect Based Modul
-e Development/Reference Material/Latex Files/s2.jpeg> <C:/Users/Akhil Jain/Desk
-top/Kinect Based Module Development/Reference Material/Latex Files/s3.jpeg>]
-[32 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/s4.jpeg> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Deve
-lopment/Reference Material/Latex Files/s5.jpeg>] [33 <C:/Users/Akhil Jain/Deskt
-op/Kinect Based Module Development/Reference Material/Latex Files/s6.jpeg> <C:/
-Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Material/Lat
-ex Files/s7.jpeg>] [34 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Develop
-ment/Reference Material/Latex Files/s8.jpeg> <C:/Users/Akhil Jain/Desktop/Kinec
-t Based Module Development/Reference Material/Latex Files/s9.jpeg>] [35 <C:/Use
-rs/Akhil Jain/Desktop/Kinect Based Module Development/Reference Material/Latex 
-Files/s10.jpeg>]
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch4-Experiments.tex" [36
+) [30 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refe
+rence Material/Latex Files/s1.png>] [31 <C:/Users/Akhil Jain/Desktop/Project/Ki
+nect Based Module Development/Reference Material/Latex Files/s2.jpeg> <C:/Users
+/Akhil Jain/Desktop/Project/Kinect Based Module Development/Reference Material/
+Latex Files/s3.jpeg>] [32 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Mod
+ule Development/Reference Material/Latex Files/s4.jpeg> <C:/Users/Akhil Jain/De
+sktop/Project/Kinect Based Module Development/Reference Material/Latex Files/s5
+.jpeg>] [33 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Developmen
+t/Reference Material/Latex Files/s6.jpeg> <C:/Users/Akhil Jain/Desktop/Project/
+Kinect Based Module Development/Reference Material/Latex Files/s7.jpeg>]
+[34 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/s8.jpeg> <C:/Users/Akhil Jain/Desktop/Project/Kinect B
+ased Module Development/Reference Material/Latex Files/s9.jpeg>] [35 <C:/Users/
+Akhil Jain/Desktop/Project/Kinect Based Module Development/Reference Material/L
+atex Files/s10.jpeg>]
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch4-Experiments.tex" [36
 
 
 ]
@@ -798,9 +801,9 @@ Overfull \hbox (31.22563pt too wide) in paragraph at lines 92--94
 [][] 
  []
 
-[39 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e11.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Deve
-lopment/Reference Material/Latex Files/e12.png>]
+[39 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e11.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect B
+ased Module Development/Reference Material/Latex Files/e12.png>]
 <e21.png, id=923, 1026.83624pt x 593.21625pt>
 File: e21.png Graphic file (type png)
  <use e21.png>
@@ -821,9 +824,9 @@ Overfull \hbox (32.73125pt too wide) in paragraph at lines 141--143
 [][] 
  []
 
-[41 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e21.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Deve
-lopment/Reference Material/Latex Files/e22.png>]
+[41 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e21.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect B
+ased Module Development/Reference Material/Latex Files/e22.png>]
 <e31.png, id=939, 1026.83624pt x 611.28375pt>
 File: e31.png Graphic file (type png)
  <use e31.png>
@@ -844,9 +847,9 @@ Overfull \hbox (28.71625pt too wide) in paragraph at lines 183--185
 [][] 
  []
 
-[42 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e31.png>] [43 <C:/Users/Akhil Jain/Desktop/Kinect Based Module
- Development/Reference Material/Latex Files/e32.png>]
+[42 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e31.png>] [43 <C:/Users/Akhil Jain/Desktop/Project/Kin
+ect Based Module Development/Reference Material/Latex Files/e32.png>]
 <e41.png, id=953, 1033.8625pt x 577.15625pt>
 File: e41.png Graphic file (type png)
  <use e41.png>
@@ -867,9 +870,9 @@ Overfull \hbox (31.22563pt too wide) in paragraph at lines 224--225
 [][]  
  []
 
-[44 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e41.png>] [45 <C:/Users/Akhil Jain/Desktop/Kinect Based Module
- Development/Reference Material/Latex Files/e42.png>]
+[44 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e41.png>] [45 <C:/Users/Akhil Jain/Desktop/Project/Kin
+ect Based Module Development/Reference Material/Latex Files/e42.png>]
 <e51.png, id=967, 1031.855pt x 612.2875pt>
 File: e51.png Graphic file (type png)
  <use e51.png>
@@ -881,24 +884,23 @@ File: e52.png Graphic file (type png)
  <use e52.png>
 Package pdftex.def Info: e52.png used on input line 273.
 (pdftex.def)             Requested size: 412.33319pt x 246.51663pt.
- [47 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mat
-erial/Latex Files/e51.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Dev
-elopment/Reference Material/Latex Files/e52.png>] <e61.png, id=983, 1027.84pt x
- 609.27625pt>
+ [47 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refer
+ence Material/Latex Files/e51.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect 
+Based Module Development/Reference Material/Latex Files/e52.png>]
+<e61.png, id=983, 1027.84pt x 609.27625pt>
 File: e61.png Graphic file (type png)
-
-<use e61.png>
+ <use e61.png>
 Package pdftex.def Info: e61.png used on input line 319.
 (pdftex.def)             Requested size: 411.12872pt x 243.70618pt.
- [48] <e62.png, id=995, 1032.85875pt x 612.2875pt>
+ [48]
+<e62.png, id=995, 1032.85875pt x 612.2875pt>
 File: e62.png Graphic file (type png)
  <use e62.png>
 Package pdftex.def Info: e62.png used on input line 322.
 (pdftex.def)             Requested size: 413.13618pt x 244.91066pt.
-
-[49 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e61.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Deve
-lopment/Reference Material/Latex Files/e62.png>]
+ [49 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refer
+ence Material/Latex Files/e61.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect 
+Based Module Development/Reference Material/Latex Files/e62.png>]
 <e71.png, id=1000, 1032.85875pt x 613.29124pt>
 File: e71.png Graphic file (type png)
  <use e71.png>
@@ -919,9 +921,9 @@ Overfull \hbox (31.7275pt too wide) in paragraph at lines 370--372
 [][] 
  []
 
-[51 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e71.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Deve
-lopment/Reference Material/Latex Files/e72.png>]
+[51 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e71.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect B
+ased Module Development/Reference Material/Latex Files/e72.png>]
 <e81.png, id=1015, 1025.8325pt x 608.2725pt>
 File: e81.png Graphic file (type png)
  <use e81.png>
@@ -942,9 +944,9 @@ Overfull \hbox (33.23312pt too wide) in paragraph at lines 416--417
 [][]  
  []
 
-[53 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e81.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Deve
-lopment/Reference Material/Latex Files/e82.png>]
+[53 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e81.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect B
+ased Module Development/Reference Material/Latex Files/e82.png>]
 <e91.png, id=1031, 1030.85126pt x 612.2875pt>
 File: e91.png Graphic file (type png)
  <use e91.png>
@@ -965,9 +967,9 @@ Overfull \hbox (30.22188pt too wide) in paragraph at lines 484--486
 [][] 
  []
 
-[55 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e91.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Deve
-lopment/Reference Material/Latex Files/e92.png>]
+[55 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e91.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect B
+ased Module Development/Reference Material/Latex Files/e92.png>]
 <e101.png, id=1049, 1033.8625pt x 616.3025pt>
 File: e101.png Graphic file (type png)
  <use e101.png>
@@ -988,9 +990,9 @@ Overfull \hbox (28.71625pt too wide) in paragraph at lines 548--550
 [][] 
  []
 
-[57 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e101.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Dev
-elopment/Reference Material/Latex Files/e102.png>]
+[57 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e101.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect 
+Based Module Development/Reference Material/Latex Files/e102.png>]
 <e111.png, id=1067, 1030.85126pt x 615.29875pt>
 File: e111.png Graphic file (type png)
  <use e111.png>
@@ -1011,10 +1013,10 @@ Overfull \hbox (32.22937pt too wide) in paragraph at lines 587--588
 [][]  
  []
 
-[58 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e111.png>] [59 <C:/Users/Akhil Jain/Desktop/Kinect Based Modul
-e Development/Reference Material/Latex Files/e112.png>] [60]
-<e121.png, id=1085, 1028.84375pt x 613.29124pt>
+[58 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e111.png>] [59 <C:/Users/Akhil Jain/Desktop/Project/Ki
+nect Based Module Development/Reference Material/Latex Files/e112.png>]
+[60] <e121.png, id=1085, 1028.84375pt x 613.29124pt>
 File: e121.png Graphic file (type png)
  <use e121.png>
 Package pdftex.def Info: e121.png used on input line 659.
@@ -1034,9 +1036,9 @@ Overfull \hbox (29.72pt too wide) in paragraph at lines 662--664
 [][] 
  []
 
-[62 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e121.png> <C:/Users/Akhil Jain/Desktop/Kinect Based Module Dev
-elopment/Reference Material/Latex Files/e122.png>]
+[62 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e121.png> <C:/Users/Akhil Jain/Desktop/Project/Kinect 
+Based Module Development/Reference Material/Latex Files/e122.png>]
 <e131.png, id=1099, 1028.84375pt x 612.2875pt>
 File: e131.png Graphic file (type png)
  <use e131.png>
@@ -1047,11 +1049,11 @@ Overfull \hbox (30.72375pt too wide) in paragraph at lines 716--717
 []  
  []
 
-[63] [64 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference
- Material/Latex Files/e131.png>] <e141.png, id=1113, 1031.855pt x 613.29124pt>
+[63] [64 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/R
+eference Material/Latex Files/e131.png>]
+<e141.png, id=1113, 1031.855pt x 613.29124pt>
 File: e141.png Graphic file (type png)
-
-<use e141.png>
+ <use e141.png>
 Package pdftex.def Info: e141.png used on input line 759.
 (pdftex.def)             Requested size: 515.92624pt x 306.64487pt.
 
@@ -1069,11 +1071,11 @@ Overfull \hbox (30.72375pt too wide) in paragraph at lines 762--764
 [][] 
  []
 
-[65 <C:/Users/Akhil Jain/Desktop/Kinect Based Module Development/Reference Mate
-rial/Latex Files/e141.png>]) [66 <C:/Users/Akhil Jain/Desktop/Kinect Based Modu
-le Development/Reference Material/Latex Files/e142.png>]
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\References.tex"
+[65 <C:/Users/Akhil Jain/Desktop/Project/Kinect Based Module Development/Refere
+nce Material/Latex Files/e141.png>]) [66 <C:/Users/Akhil Jain/Desktop/Project/K
+inect Based Module Development/Reference Material/Latex Files/e142.png>]
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\References.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 [][][]$\OT1/cmtt/m/n/10 http : / / social . msdn . microsoft . com / Forums / e
 n-[]US / 3f73ac86-[]9793-[]4586-[]9eb3-[]3cf2aa55fc77 /$
@@ -1087,18 +1089,18 @@ n-[]US / 3f73ac86-[]9793-[]4586-[]9eb3-[]3cf2aa55fc77 /$
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
 
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Manual.aux"
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch1-Installation.aux")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch2-zigbee.aux")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch3-Setup.aux")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\Ch4-Experiments.aux")
-("C:\Users\Akhil Jain\Desktop\Kinect Based Module Development\Reference Materia
-l\Latex Files\References.aux"))
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Manual.aux"
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch1-Installation.aux")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch2-zigbee.aux")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch3-Setup.aux")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\Ch4-Experiments.aux")
+("C:\Users\Akhil Jain\Desktop\Project\Kinect Based Module Development\Reference
+ Material\Latex Files\References.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `Manual.out' has not changed.
@@ -1107,7 +1109,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
  6346 strings out of 493921
- 98363 string characters out of 3132431
+ 98707 string characters out of 3132431
  183310 words of memory out of 3000000
  9196 multiletter control sequences out of 15000+200000
  9582 words of font info for 34 fonts, out of 3000000 for 9000
@@ -1122,7 +1124,7 @@ s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Akhil Jain/Desktop/Technical/E-y
 antra/Latex - Installed/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Akh
 il Jain/Desktop/Technical/E-yantra/Latex - Installed/fonts/type1/public/amsfont
 s/cm/cmtt10.pfb>
-Output written on Manual.pdf (68 pages, 23701476 bytes).
+Output written on Manual.pdf (68 pages, 23701475 bytes).
 PDF statistics:
  1233 PDF objects out of 1440 (max. 8388607)
  310 named destinations out of 1000 (max. 500000)
