@@ -1,0 +1,391 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.6.3)  17 JUN 2014 11:37
+entering extended mode
+**Ch1-Installation.tex
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex Codes\Ch1-Installation.t
+ex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\ba
+se\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\ba
+se\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\ge
+ometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\gr
+aphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\generic\
+oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\generic\
+oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\generic\
+ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\ge
+ometry\geometry.cfg"))
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (597.50787pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (845.04684pt) is ignored.
+
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\gr
+aphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\gr
+aphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\gr
+aphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\00
+miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\pd
+ftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\generic\
+oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\generic\
+oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+
+LaTeX Warning: Unused global option(s):
+    [20pt].
+
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex Codes\Ch1-Installation.a
+ux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\context\
+base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen114
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 25.
+ [1
+
+{C:/Users/Akhil Jain/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex Codes\Ch1-Installation.t
+oc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+ [1
+
+]
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
+
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex - Installed\tex\latex\ba
+se\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+ [2
+
+] <website.jpg, id=16, 1011.02719pt x 536.75531pt>
+File: website.jpg Graphic file (type jpg)
+
+<use website.jpg>
+Package pdftex.def Info: website.jpg used on input line 142.
+(pdftex.def)             Requested size: 404.40372pt x 214.6983pt.
+ <downloaded.jpg, id=17, 842.39719pt x 387.69844pt>
+File: downloaded.jpg Graphic file (type jpg)
+
+<use downloaded.jpg>
+Package pdftex.def Info: downloaded.jpg used on input line 150.
+(pdftex.def)             Requested size: 421.19756pt x 193.84874pt.
+ <sdk_step1.jpg, id=18, 566.86781pt x 411.03563pt>
+File: sdk_step1.jpg Graphic file (type jpg)
+
+<use sdk_step1.jpg>
+Package pdftex.def Info: sdk_step1.jpg used on input line 158.
+(pdftex.def)             Requested size: 396.80476pt x 287.72298pt.
+ <sdk_step2.jpg, id=19, 569.87906pt x 411.03563pt>
+File: sdk_step2.jpg Graphic file (type jpg)
+
+<use sdk_step2.jpg>
+Package pdftex.def Info: sdk_step2.jpg used on input line 166.
+(pdftex.def)             Requested size: 398.91261pt x 287.72298pt.
+ <sdk_step3.jpg, id=20, 567.62062pt x 409.53pt>
+File: sdk_step3.jpg Graphic file (type jpg)
+
+<use sdk_step3.jpg>
+Package pdftex.def Info: sdk_step3.jpg used on input line 174.
+(pdftex.def)             Requested size: 397.33171pt x 286.66904pt.
+ <toolkit_step1.jpg, id=21, 557.83406pt x 413.29407pt>
+File: toolkit_step1.jpg Graphic file (type jpg)
+
+<use toolkit_step1.jpg>
+Package pdftex.def Info: toolkit_step1.jpg used on input line 182.
+(pdftex.def)             Requested size: 390.48117pt x 289.30386pt.
+ <toolkit_step2.jpg, id=22, 566.115pt x 409.53pt>
+File: toolkit_step2.jpg Graphic file (type jpg)
+
+<use toolkit_step2.jpg>
+Package pdftex.def Info: toolkit_step2.jpg used on input line 189.
+(pdftex.def)             Requested size: 396.2778pt x 286.66904pt.
+ <toolkit_step3.jpg, id=23, 565.36218pt x 409.53pt>
+File: toolkit_step3.jpg Graphic file (type jpg)
+
+<use toolkit_step3.jpg>
+Package pdftex.def Info: toolkit_step3.jpg used on input line 197.
+(pdftex.def)             Requested size: 395.75082pt x 286.66904pt.
+ <after_install.jpg, id=24, 670.75594pt x 523.20468pt>
+File: after_install.jpg Graphic file (type jpg)
+
+<use after_install.jpg>
+Package pdftex.def Info: after_install.jpg used on input line 205.
+(pdftex.def)             Requested size: 469.52594pt x 366.24077pt.
+ [3 <C:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/website.jpg> <C
+:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/downloaded.jpg>] [4 <
+C:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/sdk_step1.jpg> <C:/U
+sers/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/sdk_step2.jpg>] [5 <C:/U
+sers/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/sdk_step3.jpg> <C:/Users
+/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/toolkit_step1.jpg>] [6 <C:/U
+sers/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/toolkit_step2.jpg> <C:/U
+sers/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/toolkit_step3.jpg>] [7 <
+C:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/after_install.jpg>] 
+[8] <step1.jpeg, id=44, 1371.1225pt x 770.88pt>
+File: step1.jpeg Graphic file (type jpg)
+
+<use step1.jpeg>
+Package pdftex.def Info: step1.jpeg used on input line 439.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+ <step2.jpeg, id=45, 1371.1225pt x 770.88pt>
+File: step2.jpeg Graphic file (type jpg)
+ <use step2.jpeg>
+Package pdftex.def Info: step2.jpeg used on input line 446.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step3.jpeg, id=46, 1371.1225pt x 770.88pt>
+File: step3.jpeg Graphic file (type jpg)
+ <use step3.jpeg>
+Package pdftex.def Info: step3.jpeg used on input line 453.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step4.jpeg, id=47, 1371.1225pt x 770.88pt>
+File: step4.jpeg Graphic file (type jpg)
+ <use step4.jpeg>
+Package pdftex.def Info: step4.jpeg used on input line 460.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step5.jpeg, id=48, 1371.1225pt x 770.88pt>
+File: step5.jpeg Graphic file (type jpg)
+ <use step5.jpeg>
+Package pdftex.def Info: step5.jpeg used on input line 467.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step6.jpeg, id=49, 1371.1225pt x 770.88pt>
+File: step6.jpeg Graphic file (type jpg)
+ <use step6.jpeg>
+Package pdftex.def Info: step6.jpeg used on input line 474.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step7.jpeg, id=50, 1371.1225pt x 770.88pt>
+File: step7.jpeg Graphic file (type jpg)
+ <use step7.jpeg>
+Package pdftex.def Info: step7.jpeg used on input line 481.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step8.jpeg, id=51, 1371.1225pt x 770.88pt>
+File: step8.jpeg Graphic file (type jpg)
+ <use step8.jpeg>
+Package pdftex.def Info: step8.jpeg used on input line 488.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step9.jpeg, id=52, 1371.1225pt x 770.88pt>
+File: step9.jpeg Graphic file (type jpg)
+ <use step9.jpeg>
+Package pdftex.def Info: step9.jpeg used on input line 495.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step10.jpeg, id=53, 1371.1225pt x 770.88pt>
+File: step10.jpeg Graphic file (type jpg)
+ <use step10.jpeg>
+Package pdftex.def Info: step10.jpeg used on input line 502.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step12.jpeg, id=54, 1371.1225pt x 770.88pt>
+File: step12.jpeg Graphic file (type jpg)
+ <use step12.jpeg>
+Package pdftex.def Info: step12.jpeg used on input line 509.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+
+<step11.jpeg, id=55, 1371.1225pt x 770.88pt>
+File: step11.jpeg Graphic file (type jpg)
+ <use step11.jpeg>
+Package pdftex.def Info: step11.jpeg used on input line 516.
+(pdftex.def)             Requested size: 479.90007pt x 269.81204pt.
+ [9] [10 <C:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/step1.jpeg
+> <C:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/step2.jpeg>] [11 
+<C:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/step3.jpeg> <C:/Use
+rs/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/step4.jpeg>] [12 <C:/Users
+/Akhil Jain/Desktop/Technical/E-yantra/Latex Codes/step5.jpeg> <C:/Users/Akhil 
+Jain/Desktop/Technical/E-yantra/Latex Codes/step6.jpeg>] [13 <C:/Users/Akhil Ja
+in/Desktop/Technical/E-yantra/Latex Codes/step7.jpeg> <C:/Users/Akhil Jain/Desk
+top/Technical/E-yantra/Latex Codes/step8.jpeg>] [14 <C:/Users/Akhil Jain/Deskto
+p/Technical/E-yantra/Latex Codes/step9.jpeg> <C:/Users/Akhil Jain/Desktop/Techn
+ical/E-yantra/Latex Codes/step10.jpeg>] [15 <C:/Users/Akhil Jain/Desktop/Techni
+cal/E-yantra/Latex Codes/step12.jpeg> <C:/Users/Akhil Jain/Desktop/Technical/E-
+yantra/Latex Codes/step11.jpeg>]
+("C:\Users\Akhil Jain\Desktop\Technical\E-yantra\Latex Codes\Ch1-Installation.a
+ux") ) 
+Here is how much of TeX's memory you used:
+ 1780 strings out of 493921
+ 26330 string characters out of 3132431
+ 84484 words of memory out of 3000000
+ 5070 multiletter control sequences out of 15000+200000
+ 9414 words of font info for 33 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,7n,28p,244b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex - Installed/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Akhil Jain/Desktop/Technical/E-yan
+tra/Latex - Installed/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Akhil
+ Jain/Desktop/Technical/E-yantra/Latex - Installed/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Users/Akhil Jain/Desktop/Technical/E-yantra/Latex - Installed/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Akhil Jain/Desktop/Technical
+/E-yantra/Latex - Installed/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Ch1-Installation.pdf (16 pages, 3546104 bytes).
+PDF statistics:
+ 95 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+

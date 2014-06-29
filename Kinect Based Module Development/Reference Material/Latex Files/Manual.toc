@@ -1,0 +1,118 @@
+\contentsline {chapter}{\numberline {1}Installation of necessary software}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}\textbf {Installation of Kinect for Windows SDK (Windows)}}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}\textbf { System Requirements}}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}\textbf { Installation Procedure}}{5}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}\textbf {Installation of Openkinect's Libfreenect (Ubuntu)}}{11}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}\textbf { System Requirements}}{11}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}\textbf { Installation Procedure}}{11}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}Establishing Unicast connection between 2 XBee modules}{20}{chapter.2}
+\contentsline {section}{\numberline {2.1}\textbf {Installation of X-CTU (Windows)}}{20}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}\textbf { System Requirements}}{20}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}\textbf { Installation Procedure}}{20}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}\textbf { Configuring 2 XBee modules for unicast connection}}{23}{subsection.2.1.3}
+\contentsline {chapter}{\numberline {3}Set up Process on Visual Studio}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}\textbf {Introduction}}{29}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}\textbf { System Requirements}}{29}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}\textbf { Set up Procedure}}{29}{subsection.3.1.2}
+\contentsline {chapter}{\numberline {4}Experiments - The fun part}{37}{chapter.4}
+\contentsline {section}{\textbf { Experiments on the windows platform}}{38}{section*.2}
+\contentsline {section}{\numberline {4.1}\textbf { Depth tracking on screen}}{38}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}\textbf { Aim of the experiment}}{38}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}\textbf { Components required}}{38}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}\textbf { Experiment description}}{38}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}\textbf { Instructions}}{38}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}\textbf { Experiment Outputs}}{39}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}\textbf { Conclusion}}{39}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}\textbf { Depth tracking on firebird}}{40}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}\textbf { Aim of the experiment}}{40}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}\textbf { Components required}}{40}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}\textbf { Experiment description}}{40}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}\textbf { Instructions}}{40}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}\textbf { Experiment Outputs}}{41}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}\textbf { Conclusion}}{41}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}\textbf { Camera Fundamentals}}{42}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}\textbf { Aim of the experiment}}{42}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}\textbf { Components required}}{42}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}\textbf { Experiment description}}{42}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}\textbf { Instructions}}{42}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}\textbf { Experiment Outputs}}{42}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}\textbf { Conclusion}}{43}{subsection.4.3.6}
+\contentsline {section}{\numberline {4.4}\textbf { Skeleton Tracking Fundamentals}}{44}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}\textbf { Aim of the experiment}}{44}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}\textbf { Components required}}{44}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}\textbf { Experiment description}}{44}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}\textbf { Instructions}}{44}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}\textbf { Experiment Outputs}}{44}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}\textbf { Conclusion}}{45}{subsection.4.4.6}
+\contentsline {section}{\numberline {4.5}\textbf { Skeleton Tracking Firebird Left Right}}{46}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}\textbf { Aim of the experiment}}{46}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}\textbf { Components required}}{46}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}\textbf { Experiment description}}{46}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}\textbf { Instructions}}{46}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}\textbf { Experiment Outputs}}{47}{subsection.4.5.5}
+\contentsline {subsection}{\numberline {4.5.6}\textbf { Conclusion}}{47}{subsection.4.5.6}
+\contentsline {section}{\numberline {4.6}\textbf { Skeleton Tracking Firebird Front Back}}{48}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}\textbf { Aim of the experiment}}{48}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}\textbf { Components required}}{48}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}\textbf { Experiment description}}{48}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}\textbf { Instructions}}{48}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}\textbf { Experiment Outputs}}{49}{subsection.4.6.5}
+\contentsline {subsection}{\numberline {4.6.6}\textbf { Conclusion}}{49}{subsection.4.6.6}
+\contentsline {section}{\numberline {4.7}\textbf { Skeleton Tracking angle between joints}}{50}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}\textbf { Aim of the experiment}}{50}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}\textbf { Components required}}{50}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.3}\textbf { Experiment description}}{50}{subsection.4.7.3}
+\contentsline {subsection}{\numberline {4.7.4}\textbf { Instructions}}{50}{subsection.4.7.4}
+\contentsline {subsection}{\numberline {4.7.5}\textbf { Experiment Outputs}}{51}{subsection.4.7.5}
+\contentsline {subsection}{\numberline {4.7.6}\textbf { Conclusion}}{51}{subsection.4.7.6}
+\contentsline {section}{\numberline {4.8}\textbf { Skeleton Tracking Hoverbutton Firebird}}{52}{section.4.8}
+\contentsline {subsection}{\numberline {4.8.1}\textbf { Aim of the experiment}}{52}{subsection.4.8.1}
+\contentsline {subsection}{\numberline {4.8.2}\textbf { Components required}}{52}{subsection.4.8.2}
+\contentsline {subsection}{\numberline {4.8.3}\textbf { Experiment description}}{52}{subsection.4.8.3}
+\contentsline {subsection}{\numberline {4.8.4}\textbf { Instructions}}{52}{subsection.4.8.4}
+\contentsline {subsection}{\numberline {4.8.5}\textbf { Experiment Outputs}}{53}{subsection.4.8.5}
+\contentsline {subsection}{\numberline {4.8.6}\textbf { Conclusion}}{53}{subsection.4.8.6}
+\contentsline {section}{\numberline {4.9}\textbf { Skeleton Tracking Complete}}{54}{section.4.9}
+\contentsline {subsection}{\numberline {4.9.1}\textbf { Aim of the experiment}}{54}{subsection.4.9.1}
+\contentsline {subsection}{\numberline {4.9.2}\textbf { Components required}}{54}{subsection.4.9.2}
+\contentsline {subsection}{\numberline {4.9.3}\textbf { Experiment description}}{54}{subsection.4.9.3}
+\contentsline {subsection}{\numberline {4.9.4}\textbf { Instructions}}{54}{subsection.4.9.4}
+\contentsline {subsection}{\numberline {4.9.5}\textbf { Experiment Outputs}}{55}{subsection.4.9.5}
+\contentsline {subsection}{\numberline {4.9.6}\textbf { Conclusion}}{55}{subsection.4.9.6}
+\contentsline {section}{\numberline {4.10}\textbf { Speech Recognition}}{56}{section.4.10}
+\contentsline {subsection}{\numberline {4.10.1}\textbf { Aim of the experiment}}{56}{subsection.4.10.1}
+\contentsline {subsection}{\numberline {4.10.2}\textbf { Components required}}{56}{subsection.4.10.2}
+\contentsline {subsection}{\numberline {4.10.3}\textbf { Experiment description}}{56}{subsection.4.10.3}
+\contentsline {subsection}{\numberline {4.10.4}\textbf { Instructions}}{56}{subsection.4.10.4}
+\contentsline {subsection}{\numberline {4.10.5}\textbf { Experiment Outputs}}{57}{subsection.4.10.5}
+\contentsline {subsection}{\numberline {4.10.6}\textbf { Conclusion}}{57}{subsection.4.10.6}
+\contentsline {section}{\numberline {4.11}\textbf { Tilt Demo}}{58}{section.4.11}
+\contentsline {subsection}{\numberline {4.11.1}\textbf { Aim of the experiment}}{58}{subsection.4.11.1}
+\contentsline {subsection}{\numberline {4.11.2}\textbf { Components required}}{58}{subsection.4.11.2}
+\contentsline {subsection}{\numberline {4.11.3}\textbf { Experiment description}}{58}{subsection.4.11.3}
+\contentsline {subsection}{\numberline {4.11.4}\textbf { Instructions}}{58}{subsection.4.11.4}
+\contentsline {subsection}{\numberline {4.11.5}\textbf { Experiment Outputs}}{58}{subsection.4.11.5}
+\contentsline {subsection}{\numberline {4.11.6}\textbf { Conclusion}}{59}{subsection.4.11.6}
+\contentsline {section}{\textbf { Experiments on the linux platform}}{61}{subsection.4.11.6}
+\contentsline {section}{\numberline {4.12}\textbf { Depth tracking on screen}}{61}{section.4.12}
+\contentsline {subsection}{\numberline {4.12.1}\textbf { Aim of the experiment}}{61}{subsection.4.12.1}
+\contentsline {subsection}{\numberline {4.12.2}\textbf { Components required}}{61}{subsection.4.12.2}
+\contentsline {subsection}{\numberline {4.12.3}\textbf { Experiment description}}{61}{subsection.4.12.3}
+\contentsline {subsection}{\numberline {4.12.4}\textbf { Instructions}}{61}{subsection.4.12.4}
+\contentsline {subsection}{\numberline {4.12.5}\textbf { Experiment Outputs}}{62}{subsection.4.12.5}
+\contentsline {subsection}{\numberline {4.12.6}\textbf { Conclusion}}{62}{subsection.4.12.6}
+\contentsline {section}{\numberline {4.13}\textbf { Depth tracking with firebird}}{63}{section.4.13}
+\contentsline {subsection}{\numberline {4.13.1}\textbf { Aim of the experiment}}{63}{subsection.4.13.1}
+\contentsline {subsection}{\numberline {4.13.2}\textbf { Components required}}{63}{subsection.4.13.2}
+\contentsline {subsection}{\numberline {4.13.3}\textbf { Experiment description}}{63}{subsection.4.13.3}
+\contentsline {subsection}{\numberline {4.13.4}\textbf { Instructions}}{63}{subsection.4.13.4}
+\contentsline {subsection}{\numberline {4.13.5}\textbf { Experiment Outputs}}{64}{subsection.4.13.5}
+\contentsline {subsection}{\numberline {4.13.6}\textbf { Conclusion}}{64}{subsection.4.13.6}
+\contentsline {section}{\numberline {4.14}\textbf { Tilt Demo}}{65}{section.4.14}
+\contentsline {subsection}{\numberline {4.14.1}\textbf { Aim of the experiment}}{65}{subsection.4.14.1}
+\contentsline {subsection}{\numberline {4.14.2}\textbf { Components required}}{65}{subsection.4.14.2}
+\contentsline {subsection}{\numberline {4.14.3}\textbf { Experiment description}}{65}{subsection.4.14.3}
+\contentsline {subsection}{\numberline {4.14.4}\textbf { Instructions}}{65}{subsection.4.14.4}
+\contentsline {subsection}{\numberline {4.14.5}\textbf { Experiment Outputs}}{65}{subsection.4.14.5}
+\contentsline {subsection}{\numberline {4.14.6}\textbf { Conclusion}}{66}{subsection.4.14.6}
+\contentsline {section}{\textbf { Bibliography}}{67}{subsection.4.14.6}

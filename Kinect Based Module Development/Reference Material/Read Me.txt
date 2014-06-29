@@ -1,0 +1,9 @@
+1) The Manual for the project 'Kinect Based Module Development'
+
+   is available in the 'Manual' folder.
+
+
+
+2) The editable Latex codes to modify the manual are available
+
+   in 'Latex Files' folder.

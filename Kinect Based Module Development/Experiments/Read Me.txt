@@ -1,0 +1,17 @@
+1) Double click on the folder of the experiment you wish to execute.
+
+
+
+2) Double click on the 'xyz.sln' file to start the experiment in
+
+   Visual Studio 2013.
+
+
+
+3) Experiments involving Firebird V robot are provided with
+
+   'Kinect_To_Firebird_Using_Zigbee' folder to load the
+ 
+   necessary code on the Firebird V for serial communication through
+ 
+    Zigbee Modules.

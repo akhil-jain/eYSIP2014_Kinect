@@ -1,0 +1,20 @@
+﻿Microsoft.Samples.Kinect.WpfViewers
+
+
+library
+C#
+.cs
+C:\Users\Akhil Jain\Documents\KinectWpfViewers\obj\Debug\
+Microsoft.Samples.Kinect.WpfViewers
+none
+false
+DEBUG;TRACE
+
+61825566308
+
+211332790
+16-685023853
+KinectAudioViewer.xaml;KinectDepthViewer.xaml;KinectColorViewer.xaml;KinectSettings.xaml;KinectSkeletonViewer.xaml;KinectVoiceCommandViewer.xaml;
+
+False
+

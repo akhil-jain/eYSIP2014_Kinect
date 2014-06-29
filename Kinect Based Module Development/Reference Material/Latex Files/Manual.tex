@@ -1,0 +1,40 @@
+\documentclass[20pt]{report}
+%\usepackage[paperwidth=37cm,paperheight=37cm]{geometry}
+%\usepackage[a4paper,vmargin={20mm,20mm},hmargin={20mm,10mm}]{geometry}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={210mm,297mm},
+ left=20mm,
+ right=20mm,
+ top=20mm,
+ bottom=20mm,
+ }
+\usepackage{graphicx}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    filecolor=black,
+    urlcolor=blue,
+}
+
+%\graphicspath{{C:/Users/Akhil Jain/Desktop/Pics/}}
+\begin{document}
+
+\title{\textbf{\LARGE{Kinect Based Module Development} \vspace{0.3in} \\  E-Yantra Summer Internship  Program}}
+\author{Team:\hspace{0.1in} Akhil Jain \hspace{0.2in} Anshul Panjabi \\ \vspace{0.2in}  Mentors: \vspace{0.05in} Saurav S. \hspace{0.2in} Thyagarajan R.}
+
+\date{\today}
+
+\maketitle
+
+\tableofcontents
+%\listoffigures`
+\include{Ch1-Installation}
+\include{Ch2-zigbee}
+\include{Ch3-Setup}
+\include{Ch4-Experiments}
+\include{References}
+\end{document}

@@ -1,0 +1,5 @@
+\contentsline {chapter}{\numberline {1}Establishing Unicast connection between 2 XBee modules}{2}
+\contentsline {section}{\numberline {1.1}\textbf {Installation of X-CTU (Windows)}}{2}
+\contentsline {subsection}{\numberline {1.1.1}\textbf { System Requirements}}{2}
+\contentsline {subsection}{\numberline {1.1.2}\textbf { Installation Procedure}}{2}
+\contentsline {subsection}{\numberline {1.1.3}\textbf {Configuring 2 XBee modules for unicast connection}}{5}

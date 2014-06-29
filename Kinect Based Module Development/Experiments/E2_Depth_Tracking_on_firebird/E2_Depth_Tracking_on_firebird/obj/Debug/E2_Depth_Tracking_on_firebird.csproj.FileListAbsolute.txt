@@ -1,0 +1,16 @@
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\bin\Debug\E2_Depth_Tracking_on_firebird.exe.config
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\E2_Depth_Tracking_on_firebird.csprojResolveAssemblyReference.cache
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\MainWindow.baml
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\MainWindow.g.cs
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\App.g.cs
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\E2_Depth_Tracking_on_firebird_MarkupCompile.cache
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\E2_Depth_Tracking_on_firebird.g.resources
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\E2_Depth_Tracking_on_firebird.Properties.Resources.resources
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\E2_Depth_Tracking_on_firebird.csproj.GenerateResource.Cache
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\bin\Debug\E2_Depth_Tracking_on_firebird.exe
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\bin\Debug\E2_Depth_Tracking_on_firebird.pdb
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\E2_Depth_Tracking_on_firebird.exe
+C:\Users\Akhil Jain\Desktop\Experiments\E2_Depth_Tracking_on_firebird\E2_Depth_Tracking_on_firebird\obj\Debug\E2_Depth_Tracking_on_firebird.pdb

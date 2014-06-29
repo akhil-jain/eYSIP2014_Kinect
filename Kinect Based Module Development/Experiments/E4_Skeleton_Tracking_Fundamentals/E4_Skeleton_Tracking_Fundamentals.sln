@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E4_Skeleton_Tracking_Fundamentals", "E4_Skeleton_Tracking_Fundamentals\E4_Skeleton_Tracking_Fundamentals.csproj", "{0CA3DAC4-B6C1-4C82-806F-AE8DC628F88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Samples.Kinect.WpfViewers", "..\..\..\Documents\KinectWpfViewers\Microsoft.Samples.Kinect.WpfViewers.csproj", "{4DE23893-27E7-423F-9BB6-BA21DAC2C45E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA3DAC4-B6C1-4C82-806F-AE8DC628F88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA3DAC4-B6C1-4C82-806F-AE8DC628F88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA3DAC4-B6C1-4C82-806F-AE8DC628F88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA3DAC4-B6C1-4C82-806F-AE8DC628F88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE23893-27E7-423F-9BB6-BA21DAC2C45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE23893-27E7-423F-9BB6-BA21DAC2C45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE23893-27E7-423F-9BB6-BA21DAC2C45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE23893-27E7-423F-9BB6-BA21DAC2C45E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

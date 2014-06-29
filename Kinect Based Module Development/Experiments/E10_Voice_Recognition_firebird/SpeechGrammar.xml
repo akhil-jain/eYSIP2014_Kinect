@@ -1,0 +1,52 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>FORWARD</tag>
+        <one-of>
+          <item> forwards </item>
+          <item> forward </item>
+         
+        </one-of>
+      </item>
+      <item>
+        <tag>BACKWARD</tag>
+        <one-of>
+          <item> backward </item>
+          <item> backwards </item>
+          <item> bak </item>
+          <item> back </item>
+          <item> beck </item>
+          <item> bac </item>
+
+        </one-of>
+      </item>
+      <item>
+        <tag>STOP</tag>
+        <one-of>
+          <item> stop </item>
+          <item> top </item>
+
+        </one-of>
+      </item>
+      <item>
+        <tag>LEFT</tag>
+        <one-of>
+          <item> left </item>
+          <item> reft </item>
+          <item> lef </item>
+          <item> let </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RIGHT</tag>
+        <one-of>
+          <item> right </item>
+          <item> write </item>
+          <item> wright </item>
+          <item> rite </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,16 @@
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\bin\Debug\E1_Depth_Tracking_on_screen.exe.config
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\bin\Debug\E1_Depth_Tracking_on_screen.exe
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\bin\Debug\E1_Depth_Tracking_on_screen.pdb
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\E1_Depth_Tracking_on_screen.csprojResolveAssemblyReference.cache
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\MainWindow.baml
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\MainWindow.g.cs
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\App.g.cs
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\E1_Depth_Tracking_on_screen_MarkupCompile.cache
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\E1_Depth_Tracking_on_screen.g.resources
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\E1_Depth_Tracking_on_screen.Properties.Resources.resources
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\E1_Depth_Tracking_on_screen.csproj.GenerateResource.Cache
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\E1_Depth_Tracking_on_screen.exe
+C:\Users\Akhil Jain\Desktop\Experiments\E1_Depth_Tracking_on_screen\E1_Depth_Tracking_on_screen\obj\Debug\E1_Depth_Tracking_on_screen.pdb

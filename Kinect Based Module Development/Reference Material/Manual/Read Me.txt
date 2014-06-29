@@ -1,0 +1,28 @@
+How to use the manual :
+
+
+
+1) In the table of contents click on any chapter, section or subsection to
+
+   navigate directly to that page.
+
+
+2) While reading the steps of any procedure, click on the figure number to
+
+   directly jump to the figure.
+
+
+3) Click on any URL to visit the corresponding webpage.
+
+
+4) In chapter 4 (Experiments) click on any section number to navigate to
+
+   that experiment directly.
+
+
+5) Click on any reference number (eg. [1],[2]...) to go the reference page.
+
+
+
+Have Fun !
+

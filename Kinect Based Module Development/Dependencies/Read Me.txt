@@ -1,0 +1,3 @@
+1) The 'Dependencies' folder contains the necessary files that
+
+   need to be referenced while working on Visual Studio 2013.

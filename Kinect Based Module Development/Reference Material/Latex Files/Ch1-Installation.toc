@@ -1,0 +1,7 @@
+\contentsline {chapter}{\numberline {1}Installation of necessary software}{2}
+\contentsline {section}{\numberline {1.1}\textbf {Installation of Kinect for Windows SDK (Windows)}}{2}
+\contentsline {subsection}{\numberline {1.1.1}\textbf { System Requirements}}{2}
+\contentsline {subsection}{\numberline {1.1.2}\textbf { Installation Procedure}}{2}
+\contentsline {section}{\numberline {1.2}\textbf {Installation of Openkinect's Libfreenect (Ubuntu)}}{8}
+\contentsline {subsection}{\numberline {1.2.1}\textbf { System Requirements}}{8}
+\contentsline {subsection}{\numberline {1.2.2}\textbf { Installation Procedure}}{8}

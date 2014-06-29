@@ -1,0 +1,12 @@
+1) Refer to Chapter 3 - Set up procedure on visual studio to
+
+   understand the use of 'Kinect Wpf Viewers'.
+
+
+
+2) Coding for fun toolkit is not used in the experiments but
+
+   is made available for anyone who builds upon the existing
+ 
+   experiments in future.
+

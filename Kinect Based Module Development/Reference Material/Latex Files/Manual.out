@@ -1,0 +1,118 @@
+\BOOKMARK [0][-]{chapter.1}{Installation of necessary software}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Installation of Kinect for Windows SDK \(Windows\)}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{ System Requirements}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{ Installation Procedure}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Installation of Openkinect's Libfreenect \(Ubuntu\)}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{ System Requirements}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{ Installation Procedure}{section.1.2}% 7
+\BOOKMARK [0][-]{chapter.2}{Establishing Unicast connection between 2 XBee modules}{}% 8
+\BOOKMARK [1][-]{section.2.1}{Installation of X-CTU \(Windows\)}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.1.1}{ System Requirements}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.2}{ Installation Procedure}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.3}{ Configuring 2 XBee modules for unicast connection}{section.2.1}% 12
+\BOOKMARK [0][-]{chapter.3}{Set up Process on Visual Studio}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 14
+\BOOKMARK [2][-]{subsection.3.1.1}{ System Requirements}{section.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.1.2}{ Set up Procedure}{section.3.1}% 16
+\BOOKMARK [0][-]{chapter.4}{Experiments - The fun part}{}% 17
+\BOOKMARK [1][-]{section*.2}{ Experiments on the windows platform}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.1}{ Depth tracking on screen}{chapter.4}% 19
+\BOOKMARK [2][-]{subsection.4.1.1}{ Aim of the experiment}{section.4.1}% 20
+\BOOKMARK [2][-]{subsection.4.1.2}{ Components required}{section.4.1}% 21
+\BOOKMARK [2][-]{subsection.4.1.3}{ Experiment description}{section.4.1}% 22
+\BOOKMARK [2][-]{subsection.4.1.4}{ Instructions}{section.4.1}% 23
+\BOOKMARK [2][-]{subsection.4.1.5}{ Experiment Outputs}{section.4.1}% 24
+\BOOKMARK [2][-]{subsection.4.1.6}{ Conclusion}{section.4.1}% 25
+\BOOKMARK [1][-]{section.4.2}{ Depth tracking on firebird}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.2.1}{ Aim of the experiment}{section.4.2}% 27
+\BOOKMARK [2][-]{subsection.4.2.2}{ Components required}{section.4.2}% 28
+\BOOKMARK [2][-]{subsection.4.2.3}{ Experiment description}{section.4.2}% 29
+\BOOKMARK [2][-]{subsection.4.2.4}{ Instructions}{section.4.2}% 30
+\BOOKMARK [2][-]{subsection.4.2.5}{ Experiment Outputs}{section.4.2}% 31
+\BOOKMARK [2][-]{subsection.4.2.6}{ Conclusion}{section.4.2}% 32
+\BOOKMARK [1][-]{section.4.3}{ Camera Fundamentals}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.3.1}{ Aim of the experiment}{section.4.3}% 34
+\BOOKMARK [2][-]{subsection.4.3.2}{ Components required}{section.4.3}% 35
+\BOOKMARK [2][-]{subsection.4.3.3}{ Experiment description}{section.4.3}% 36
+\BOOKMARK [2][-]{subsection.4.3.4}{ Instructions}{section.4.3}% 37
+\BOOKMARK [2][-]{subsection.4.3.5}{ Experiment Outputs}{section.4.3}% 38
+\BOOKMARK [2][-]{subsection.4.3.6}{ Conclusion}{section.4.3}% 39
+\BOOKMARK [1][-]{section.4.4}{ Skeleton Tracking Fundamentals}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.4.1}{ Aim of the experiment}{section.4.4}% 41
+\BOOKMARK [2][-]{subsection.4.4.2}{ Components required}{section.4.4}% 42
+\BOOKMARK [2][-]{subsection.4.4.3}{ Experiment description}{section.4.4}% 43
+\BOOKMARK [2][-]{subsection.4.4.4}{ Instructions}{section.4.4}% 44
+\BOOKMARK [2][-]{subsection.4.4.5}{ Experiment Outputs}{section.4.4}% 45
+\BOOKMARK [2][-]{subsection.4.4.6}{ Conclusion}{section.4.4}% 46
+\BOOKMARK [1][-]{section.4.5}{ Skeleton Tracking Firebird Left Right}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.5.1}{ Aim of the experiment}{section.4.5}% 48
+\BOOKMARK [2][-]{subsection.4.5.2}{ Components required}{section.4.5}% 49
+\BOOKMARK [2][-]{subsection.4.5.3}{ Experiment description}{section.4.5}% 50
+\BOOKMARK [2][-]{subsection.4.5.4}{ Instructions}{section.4.5}% 51
+\BOOKMARK [2][-]{subsection.4.5.5}{ Experiment Outputs}{section.4.5}% 52
+\BOOKMARK [2][-]{subsection.4.5.6}{ Conclusion}{section.4.5}% 53
+\BOOKMARK [1][-]{section.4.6}{ Skeleton Tracking Firebird Front Back}{chapter.4}% 54
+\BOOKMARK [2][-]{subsection.4.6.1}{ Aim of the experiment}{section.4.6}% 55
+\BOOKMARK [2][-]{subsection.4.6.2}{ Components required}{section.4.6}% 56
+\BOOKMARK [2][-]{subsection.4.6.3}{ Experiment description}{section.4.6}% 57
+\BOOKMARK [2][-]{subsection.4.6.4}{ Instructions}{section.4.6}% 58
+\BOOKMARK [2][-]{subsection.4.6.5}{ Experiment Outputs}{section.4.6}% 59
+\BOOKMARK [2][-]{subsection.4.6.6}{ Conclusion}{section.4.6}% 60
+\BOOKMARK [1][-]{section.4.7}{ Skeleton Tracking angle between joints}{chapter.4}% 61
+\BOOKMARK [2][-]{subsection.4.7.1}{ Aim of the experiment}{section.4.7}% 62
+\BOOKMARK [2][-]{subsection.4.7.2}{ Components required}{section.4.7}% 63
+\BOOKMARK [2][-]{subsection.4.7.3}{ Experiment description}{section.4.7}% 64
+\BOOKMARK [2][-]{subsection.4.7.4}{ Instructions}{section.4.7}% 65
+\BOOKMARK [2][-]{subsection.4.7.5}{ Experiment Outputs}{section.4.7}% 66
+\BOOKMARK [2][-]{subsection.4.7.6}{ Conclusion}{section.4.7}% 67
+\BOOKMARK [1][-]{section.4.8}{ Skeleton Tracking Hoverbutton Firebird}{chapter.4}% 68
+\BOOKMARK [2][-]{subsection.4.8.1}{ Aim of the experiment}{section.4.8}% 69
+\BOOKMARK [2][-]{subsection.4.8.2}{ Components required}{section.4.8}% 70
+\BOOKMARK [2][-]{subsection.4.8.3}{ Experiment description}{section.4.8}% 71
+\BOOKMARK [2][-]{subsection.4.8.4}{ Instructions}{section.4.8}% 72
+\BOOKMARK [2][-]{subsection.4.8.5}{ Experiment Outputs}{section.4.8}% 73
+\BOOKMARK [2][-]{subsection.4.8.6}{ Conclusion}{section.4.8}% 74
+\BOOKMARK [1][-]{section.4.9}{ Skeleton Tracking Complete}{chapter.4}% 75
+\BOOKMARK [2][-]{subsection.4.9.1}{ Aim of the experiment}{section.4.9}% 76
+\BOOKMARK [2][-]{subsection.4.9.2}{ Components required}{section.4.9}% 77
+\BOOKMARK [2][-]{subsection.4.9.3}{ Experiment description}{section.4.9}% 78
+\BOOKMARK [2][-]{subsection.4.9.4}{ Instructions}{section.4.9}% 79
+\BOOKMARK [2][-]{subsection.4.9.5}{ Experiment Outputs}{section.4.9}% 80
+\BOOKMARK [2][-]{subsection.4.9.6}{ Conclusion}{section.4.9}% 81
+\BOOKMARK [1][-]{section.4.10}{ Speech Recognition}{chapter.4}% 82
+\BOOKMARK [2][-]{subsection.4.10.1}{ Aim of the experiment}{section.4.10}% 83
+\BOOKMARK [2][-]{subsection.4.10.2}{ Components required}{section.4.10}% 84
+\BOOKMARK [2][-]{subsection.4.10.3}{ Experiment description}{section.4.10}% 85
+\BOOKMARK [2][-]{subsection.4.10.4}{ Instructions}{section.4.10}% 86
+\BOOKMARK [2][-]{subsection.4.10.5}{ Experiment Outputs}{section.4.10}% 87
+\BOOKMARK [2][-]{subsection.4.10.6}{ Conclusion}{section.4.10}% 88
+\BOOKMARK [1][-]{section.4.11}{ Tilt Demo}{chapter.4}% 89
+\BOOKMARK [2][-]{subsection.4.11.1}{ Aim of the experiment}{section.4.11}% 90
+\BOOKMARK [2][-]{subsection.4.11.2}{ Components required}{section.4.11}% 91
+\BOOKMARK [2][-]{subsection.4.11.3}{ Experiment description}{section.4.11}% 92
+\BOOKMARK [2][-]{subsection.4.11.4}{ Instructions}{section.4.11}% 93
+\BOOKMARK [2][-]{subsection.4.11.5}{ Experiment Outputs}{section.4.11}% 94
+\BOOKMARK [2][-]{subsection.4.11.6}{ Conclusion}{section.4.11}% 95
+\BOOKMARK [1][-]{subsection.4.11.6}{ Experiments on the linux platform}{chapter.4}% 96
+\BOOKMARK [1][-]{section.4.12}{ Depth tracking on screen}{chapter.4}% 97
+\BOOKMARK [2][-]{subsection.4.12.1}{ Aim of the experiment}{section.4.12}% 98
+\BOOKMARK [2][-]{subsection.4.12.2}{ Components required}{section.4.12}% 99
+\BOOKMARK [2][-]{subsection.4.12.3}{ Experiment description}{section.4.12}% 100
+\BOOKMARK [2][-]{subsection.4.12.4}{ Instructions}{section.4.12}% 101
+\BOOKMARK [2][-]{subsection.4.12.5}{ Experiment Outputs}{section.4.12}% 102
+\BOOKMARK [2][-]{subsection.4.12.6}{ Conclusion}{section.4.12}% 103
+\BOOKMARK [1][-]{section.4.13}{ Depth tracking with firebird}{chapter.4}% 104
+\BOOKMARK [2][-]{subsection.4.13.1}{ Aim of the experiment}{section.4.13}% 105
+\BOOKMARK [2][-]{subsection.4.13.2}{ Components required}{section.4.13}% 106
+\BOOKMARK [2][-]{subsection.4.13.3}{ Experiment description}{section.4.13}% 107
+\BOOKMARK [2][-]{subsection.4.13.4}{ Instructions}{section.4.13}% 108
+\BOOKMARK [2][-]{subsection.4.13.5}{ Experiment Outputs}{section.4.13}% 109
+\BOOKMARK [2][-]{subsection.4.13.6}{ Conclusion}{section.4.13}% 110
+\BOOKMARK [1][-]{section.4.14}{ Tilt Demo}{chapter.4}% 111
+\BOOKMARK [2][-]{subsection.4.14.1}{ Aim of the experiment}{section.4.14}% 112
+\BOOKMARK [2][-]{subsection.4.14.2}{ Components required}{section.4.14}% 113
+\BOOKMARK [2][-]{subsection.4.14.3}{ Experiment description}{section.4.14}% 114
+\BOOKMARK [2][-]{subsection.4.14.4}{ Instructions}{section.4.14}% 115
+\BOOKMARK [2][-]{subsection.4.14.5}{ Experiment Outputs}{section.4.14}% 116
+\BOOKMARK [2][-]{subsection.4.14.6}{ Conclusion}{section.4.14}% 117
+\BOOKMARK [1][-]{subsection.4.14.6}{ Bibliography}{chapter.4}% 118

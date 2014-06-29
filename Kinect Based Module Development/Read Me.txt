@@ -1,0 +1,15 @@
+1) The 'Experiments' folder contains the experiments designed
+   on the windows and linux platform.
+
+2) The 'Reference Material' folder contains the Manual and the
+   Latex codes used in designing the manual.
+
+3) The 'Softwares And Dependencies' folder contains the required
+   softwares and dependencies to work on the windows platform.
+
+4) The 'Videos' folder contains the Videos or youtube link to
+   the videos and the Latex codes used in designing the title 
+   slide.
+
+5) Each folder has a 'Read Me.txt' file to guide you through. 
+   Kindly refer to the same before hand.

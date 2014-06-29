@@ -1,0 +1,17 @@
+﻿<Window x:Class="E7_Skeleton_Tracking_angle_between_joints.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="662.836" Width="823.507">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="185*"/>
+            <ColumnDefinition Width="223*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="Message"  HorizontalAlignment="Center" VerticalAlignment="Top" Height="15"  Background="Green" Foreground="Red" Margin="0,0,368,0" Width="78" Grid.Column="1" />
+        <Image x:Name="Image" HorizontalAlignment="Left" Height="480" Margin="83,139,0,-31" VerticalAlignment="Top" Width="640" Grid.ColumnSpan="2"/>
+        <Label x:Name="label2" Content="" HorizontalAlignment="Left" Margin="262,70,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="186" Height="45" FontSize="24"/>
+        <Label x:Name="label3" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="139,70,0,0" VerticalAlignment="Top" Width="184" Height="45" FontSize="24"/>
+        <Label x:Name="label4" Content="" HorizontalAlignment="Left" Margin="83,20,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="666" Height="50" FontSize="24"/>
+
+    </Grid>
+</Window>
