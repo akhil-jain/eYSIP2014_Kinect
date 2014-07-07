@@ -1,23 +1,3 @@
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <fcntl.h>
-#include <termios.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-
- 
-char *tmpbuffer ;
-void openport(void);
-
-void sendport(void);
-        
-#define BAUDRATE B115200 
-#define MODEMDEVICE "/dev/ttyUSB0"
-#define _POSIX_SOURCE 1 /* POSIX compliant source */
-#define FALSE 0
-#define TRUE 1
- 
 /*
  * This file is part of the OpenKinect Project. http://www.openkinect.org
  *
@@ -44,10 +24,13 @@ void sendport(void);
  * either License.
  */
 
-
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <termios.h>
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
+#include <stdlib.h>
 #include <assert.h>
 #include "libfreenect.h"
 
@@ -64,6 +47,16 @@ void sendport(void);
 #endif
 
 #include <math.h>
+ 
+char *tmpbuffer ; // Temporary buffer for holding the data to be sent via zigbee
+void openport(void); // Open the Zigbee port and set its characteristics
+void sendport(void); // Send the data
+        
+#define BAUDRATE B115200 
+#define MODEMDEVICE "/dev/ttyUSB0" // Zigbee port
+#define _POSIX_SOURCE 1 // POSIX compliant source
+#define FALSE 0
+#define TRUE 1
 
 pthread_t freenect_thread;
 volatile int die = 0;
@@ -78,6 +71,7 @@ pthread_mutex_t gl_backbuf_mutex = PTHREAD_MUTEX_INITIALIZER;
 // back: owned by libfreenect (implicit for depth)
 // mid: owned by callbacks, "latest frame ready"
 // front: owned by GL, "currently being drawn"
+
 uint8_t *depth_mid, *depth_front;
 uint8_t *rgb_back, *rgb_mid, *rgb_front;
 
@@ -104,7 +98,7 @@ void DrawGLScene()
 	pthread_mutex_lock(&gl_backbuf_mutex);
 
 	// When using YUV_RGB mode, RGB frames only arrive at 15Hz, so we shouldn't force them to draw in lock-step.
-	// However, this is CPU/GPU intensive when we are receiving frames in lockstep.
+	// However, this is CPU intensive when we are receiving frames in lockstep.
 	if (current_format == FREENECT_VIDEO_YUV_RGB) {
 		while (!got_depth && !got_rgb) {
 			pthread_cond_wait(&gl_frame_cond, &gl_backbuf_mutex);
@@ -194,113 +188,6 @@ void DrawGLScene()
 	glutSwapBuffers();
 }
 
-void keyPressed(unsigned char key, int x, int y)
-{
-	if (key == 27) {
-		die = 1;
-		pthread_join(freenect_thread, NULL);
-		glutDestroyWindow(window);
-		free(depth_mid);
-		free(depth_front);
-		free(rgb_back);
-		free(rgb_mid);
-		free(rgb_front);
-		// Not pthread_exit because OSX leaves a thread lying around and doesn't exit
-		exit(0);
-	}
-	if (key == 'w') {
-		freenect_angle++;
-		if (freenect_angle > 30) {
-			freenect_angle = 30;
-		}
-		tilt_changed++;
-	}
-	if (key == 's') {
-		freenect_angle = 0;
-		tilt_changed++;
-	}
-	if (key == 'f') {
-		if (requested_format == FREENECT_VIDEO_IR_8BIT)
-			requested_format = FREENECT_VIDEO_RGB;
-		else if (requested_format == FREENECT_VIDEO_RGB)
-			requested_format = FREENECT_VIDEO_YUV_RGB;
-		else
-			requested_format = FREENECT_VIDEO_IR_8BIT;
-	}
-	if (key == 'x') {
-		freenect_angle--;
-		if (freenect_angle < -30) {
-			freenect_angle = -30;
-		}
-		tilt_changed++;
-	}
-	if (key == 'e') {
-		static freenect_flag_value auto_exposure = FREENECT_ON;
-		freenect_set_flag(f_dev, FREENECT_AUTO_EXPOSURE, auto_exposure);
-		auto_exposure = auto_exposure ? FREENECT_OFF : FREENECT_ON;
-	}
-	if (key == 'b') {
-		static freenect_flag_value white_balance = FREENECT_ON;
-		freenect_set_flag(f_dev, FREENECT_AUTO_WHITE_BALANCE, white_balance);
-		white_balance = white_balance ? FREENECT_OFF : FREENECT_ON;
-	}
-	if (key == 'r') {
-		static freenect_flag_value raw_color = FREENECT_ON;
-		freenect_set_flag(f_dev, FREENECT_RAW_COLOR, raw_color);
-		raw_color = raw_color ? FREENECT_OFF : FREENECT_ON;
-	}
-	if (key == 'm') {
-		static freenect_flag_value mirror = FREENECT_ON;
-		freenect_set_flag(f_dev, FREENECT_MIRROR_DEPTH, mirror);
-		freenect_set_flag(f_dev, FREENECT_MIRROR_VIDEO, mirror);
-		mirror = mirror ? FREENECT_OFF : FREENECT_ON;
-	}
-	if (key == '1') {
-		freenect_set_led(f_dev,LED_GREEN);
-		tmpbuffer = "52";
-		sendport();
-	}
-	if (key == '2') {
-		freenect_set_led(f_dev,LED_RED);
-		tmpbuffer = "58";
-		sendport();
-	}
-	if (key == '3') {
-		freenect_set_led(f_dev,LED_YELLOW);
-		tmpbuffer = "54";
-		sendport();
-	}
-	if (key == '4') {
-		freenect_set_led(f_dev,LED_BLINK_GREEN);
-		tmpbuffer = "56";
-		sendport();
-	}
-	if (key == '5') {
-		// 5 is the same as 4
-		freenect_set_led(f_dev,LED_BLINK_GREEN);
-	}
-	if (key == '6') {
-		freenect_set_led(f_dev,LED_BLINK_RED_YELLOW);
-	}
-	if (key == '0') {
-		freenect_set_led(f_dev,LED_OFF);
-	}
-	if (key == 'o') {
-	    if (camera_rotate) {
-	        camera_rotate = 0;
-	        glDisable(GL_DEPTH_TEST);
-	    }
-	    else {
-	        camera_rotate = 1;
-	        glEnable(GL_DEPTH_TEST);
-	    }
-	}
-	if (tilt_changed) {
-	    freenect_set_tilt_degs(f_dev, freenect_angle);
-	    tilt_changed = 0;
-	}
-}
-
 void ReSizeGLScene(int Width, int Height)
 {
 	glViewport(0,0,Width,Height);
@@ -353,7 +240,6 @@ void *gl_threadfunc(void *arg)
 	glutDisplayFunc(&DrawGLScene);
 	glutIdleFunc(&DrawGLScene);
 	glutReshapeFunc(&ReSizeGLScene);
-	glutKeyboardFunc(&keyPressed);
 
 	InitGL(1280, 480);
 
@@ -364,6 +250,11 @@ void *gl_threadfunc(void *arg)
 
 uint16_t t_gamma[2048];
 
+
+// This function obtains the depth value based on which it 
+// assigns Red Green or Blue color to the pixels.
+// Also the direction of firebird (Forward or Backward) 
+// is transmitted over zigbee port
 void depth_cb(freenect_device *dev, void *v_depth, uint32_t timestamp)
 {
 	int i;
@@ -463,10 +354,6 @@ void *freenect_threadfunc(void *arg)
 	freenect_start_depth(f_dev);
 	freenect_start_video(f_dev);
 
-	//printf("'w' - tilt up, 's' - level, 'x' - tilt down, '0'-'6' - select LED mode \n");
-	//printf("'f' - change video format, 'm' - mirror video, 'o' - rotate video with accelerometer \n");
-	//printf("'e' - auto exposure, 'b' - white balance, 'r' - raw color \n");
-
 	while (!die && freenect_process_events(f_ctx) >= 0) {
 		//Throttle the text output
 		if (accelCount++ >= 2000)
@@ -476,8 +363,7 @@ void *freenect_threadfunc(void *arg)
 			freenect_update_tilt_state(f_dev);
 			state = freenect_get_tilt_state(f_dev);
 			double dx,dy,dz;
-			freenect_get_mks_accel(state, &dx, &dy, &dz);
-			//printf("\r raw acceleration: %4d %4d %4d  mks acceleration: %4f %4f %4f", state->accelerometer_x, state->accelerometer_y, state->accelerometer_z, dx, dy, dz);
+			freenect_get_mks_accel(state, &dx, &dy, &dz);;
 			fflush(stdout);
 		}
 
@@ -572,29 +458,11 @@ int fileLen;
 
 int fd=0;
 struct termios oldtp, newtp;
-//char sendcmd1[256]="\0";
 char buffer[512];
  
 void sendport(void)
 {
-       // printf("enter write\n");
-        int n;
-     //   sem_wait(&len);
-               /* file = fopen("sample.txt", "r");
- 
-               //get file size
-
-                fseek(file, 0, SEEK_END);
-                fileLen = ftell(file);
-                fseek(file, 0, SEEK_SET);
- 
-                tmpbuffer = (char *)malloc(fileLen + 1);
- 
-                //read file contents
-                printf("Start send\n");
-                fread(tmpbuffer, fileLen, 1, file);
-                fclose(file);
- */                
+       int n;                
 		n = write(fd, tmpbuffer, strlen(tmpbuffer));
  
                 if (n < 0)
@@ -605,7 +473,7 @@ void sendport(void)
                 {
                         printf("Image sent successfully %d\n",n);
                 }
-               // close(fd);
+
  
 }
  
@@ -651,6 +519,4 @@ void openport(void)
          newtp.c_cc[VEOL2]    = 0;     /* '\0' */
                                                                                 
                                                                                 
-   //     tcflush(fd, TCIFLUSH);
-//	tcsetattr(fd,TCSANOW,&newtp);
 }

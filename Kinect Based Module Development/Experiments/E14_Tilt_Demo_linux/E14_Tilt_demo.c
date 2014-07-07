@@ -68,18 +68,8 @@
   //   usleep(seconds*1000000);  // The usleep operates on microseconds
   //   return(0);
   // }
-  // So, it is strongly advised to stick with the _WIN32/_MSC_VER
-  // http://www.xinotes.org/notes/note/439/
+
 #endif//_WIN32
-
-
-
-/* This is a simple demo. It connects to the kinect and plays with the motor,
-   the accelerometers, and the LED. It doesn't do anything with images. And,
-   unlike the other examples, no OpenGL is required!
-
-   So, this should serve as the reference example for working with the motor,
-   accelerometers, and LEDs.   */
 
 void no_kinect_quit(void)
 {
@@ -91,40 +81,24 @@ int main(int argc, char *argv[])
 {
 	srand(time(0));
 
+		int tilt,option =1; // Variable to hold tilt angle and option input from user
 
-		// Pick a random tilt and a random LED state
-		freenect_led_options led = (freenect_led_options) (rand() % 6); // explicit cast
-		int tilt = (rand() % 30)-15,option =1;
-		freenect_raw_tilt_state *state = 0;
-		double dx, dy, dz;
 		while(1)
 		{
-		freenect_led_options led = (freenect_led_options) (rand() % 6); // explicit cast
-		int tilt = (rand() % 30)-15;
-		freenect_raw_tilt_state *state = 0;
-		double dx, dy, dz;
+
 		printf("\n Enter the titl angle (-27 to 27) : ");
-		scanf("%d",&tilt);
-		if(tilt > 27 || tilt < -27)
+		scanf("%d",&tilt); // Take the input
+
+		if(tilt > 27 || tilt < -27) // check for invalidity
 		{
 		printf("\n Invalid tilt data");
 		continue;
 		}
-		// Set the LEDs to one of the possible states
-		//if (freenect_sync_set_led(led, 0)) no_kinect_quit();
 
 		// Set the tilt angle (in degrees)
 		if (freenect_sync_set_tilt_degs(tilt, 0)) no_kinect_quit();
 
-		// Get the raw accelerometer values and tilt data
-		//if (freenect_sync_get_tilt_state(&state, 0)) no_kinect_quit();
-
-		// Get the processed accelerometer values (calibrated to gravity)
-		//freenect_get_mks_accel(state, &dx, &dy, &dz);
-
-		//printf("led[%d] tilt[%d] accel[%lf,%lf,%lf]\n", led, tilt, dx,dy,dz);
-
-		printf("\n Enter 1 to continue : ");
+		printf("\n Enter 1 to continue : "); // Check if the user wants to continue
 		scanf("%d",&option);
 		if(option!=1)
 		break;
